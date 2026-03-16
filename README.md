@@ -1,8 +1,6 @@
 # Raspberry Pi 임베디드 인공지능 시스템 최적화
 ### Embedded AI System Optimization Project
 
-<img src="images/post.jpg" width="700"/>
-
 본 프로젝트는 **광운대학교 "임베디드 인공지능 시스템 최적화" 과목**에서 수행한 자율주행 RC카 프로젝트입니다.  
 
 라즈베리파이 5 환경에서 **차선 인식(OpenCV)과 객체 인식(YOLO)을 결합하여 실시간 주행 제어 시스템**을 구현하였습니다.  

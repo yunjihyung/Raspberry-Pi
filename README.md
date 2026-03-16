@@ -19,7 +19,7 @@
 
 🏆 **프로젝트 수상**
 
-<img src="images/award.jpg" width="500"/>
+<img src="images/award.png" width="500"/>
 
 - 실무 보고서 부문 장려상
   
